@@ -34,6 +34,5 @@ These visuals help stakeholders quickly assess financial trends and identify are
 
 ## 📷 Dashboard Preview
 
-*(Add a screenshot of the dashboard here if available)*
 <img width="883" height="494" alt="financial health ss" src="https://github.com/user-attachments/assets/7d86b62a-1698-4347-86fb-26de526b60f1" />
 
